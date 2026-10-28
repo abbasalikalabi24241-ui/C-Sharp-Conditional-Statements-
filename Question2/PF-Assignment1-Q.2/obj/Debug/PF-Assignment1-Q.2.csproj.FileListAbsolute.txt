@@ -1,0 +1,14 @@
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.2\PF-Assignment1-Q.2\bin\Debug\PF-Assignment1-Q.2.exe.config
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.2\PF-Assignment1-Q.2\bin\Debug\PF-Assignment1-Q.2.exe
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.2\PF-Assignment1-Q.2\bin\Debug\PF-Assignment1-Q.2.pdb
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.2\PF-Assignment1-Q.2\obj\Debug\PF-Assignment1-Q.2.csproj.AssemblyReference.cache
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.2\PF-Assignment1-Q.2\obj\Debug\PF-Assignment1-Q.2.csproj.CoreCompileInputs.cache
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.2\PF-Assignment1-Q.2\obj\Debug\PF-Assignment1-Q.2.exe
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.2\PF-Assignment1-Q.2\obj\Debug\PF-Assignment1-Q.2.pdb
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.2.Discount\PF-Assignment1-Q.2\bin\Debug\PF-Assignment1-Q.2.exe.config
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.2.Discount\PF-Assignment1-Q.2\bin\Debug\PF-Assignment1-Q.2.exe
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.2.Discount\PF-Assignment1-Q.2\bin\Debug\PF-Assignment1-Q.2.pdb
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.2.Discount\PF-Assignment1-Q.2\obj\Debug\PF-Assignment1-Q.2.csproj.AssemblyReference.cache
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.2.Discount\PF-Assignment1-Q.2\obj\Debug\PF-Assignment1-Q.2.csproj.CoreCompileInputs.cache
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.2.Discount\PF-Assignment1-Q.2\obj\Debug\PF-Assignment1-Q.2.exe
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.2.Discount\PF-Assignment1-Q.2\obj\Debug\PF-Assignment1-Q.2.pdb
