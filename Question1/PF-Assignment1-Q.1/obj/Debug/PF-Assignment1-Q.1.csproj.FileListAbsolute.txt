@@ -1,0 +1,7 @@
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.1.Name of Week\PF-Assignment1-Q.1\bin\Debug\PF-Assignment1-Q.1.exe.config
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.1.Name of Week\PF-Assignment1-Q.1\bin\Debug\PF-Assignment1-Q.1.exe
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.1.Name of Week\PF-Assignment1-Q.1\bin\Debug\PF-Assignment1-Q.1.pdb
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.1.Name of Week\PF-Assignment1-Q.1\obj\Debug\PF-Assignment1-Q.1.csproj.AssemblyReference.cache
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.1.Name of Week\PF-Assignment1-Q.1\obj\Debug\PF-Assignment1-Q.1.csproj.CoreCompileInputs.cache
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.1.Name of Week\PF-Assignment1-Q.1\obj\Debug\PF-Assignment1-Q.1.exe
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.1.Name of Week\PF-Assignment1-Q.1\obj\Debug\PF-Assignment1-Q.1.pdb
