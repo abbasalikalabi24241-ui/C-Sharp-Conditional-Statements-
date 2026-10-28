@@ -1,0 +1,14 @@
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.4\PF-Assignment1-Q.4\bin\Debug\PF-Assignment1-Q.4.exe.config
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.4\PF-Assignment1-Q.4\bin\Debug\PF-Assignment1-Q.4.exe
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.4\PF-Assignment1-Q.4\bin\Debug\PF-Assignment1-Q.4.pdb
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.4\PF-Assignment1-Q.4\obj\Debug\PF-Assignment1-Q.4.csproj.AssemblyReference.cache
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.4\PF-Assignment1-Q.4\obj\Debug\PF-Assignment1-Q.4.csproj.CoreCompileInputs.cache
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.4\PF-Assignment1-Q.4\obj\Debug\PF-Assignment1-Q.4.exe
+C:\Users\Ali Kalabi\source\repos\PF-Assignment1-Q.4\PF-Assignment1-Q.4\obj\Debug\PF-Assignment1-Q.4.pdb
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.4.Calculator\PF-Assignment1-Q.4\bin\Debug\PF-Assignment1-Q.4.exe.config
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.4.Calculator\PF-Assignment1-Q.4\bin\Debug\PF-Assignment1-Q.4.exe
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.4.Calculator\PF-Assignment1-Q.4\bin\Debug\PF-Assignment1-Q.4.pdb
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.4.Calculator\PF-Assignment1-Q.4\obj\Debug\PF-Assignment1-Q.4.csproj.AssemblyReference.cache
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.4.Calculator\PF-Assignment1-Q.4\obj\Debug\PF-Assignment1-Q.4.csproj.CoreCompileInputs.cache
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.4.Calculator\PF-Assignment1-Q.4\obj\Debug\PF-Assignment1-Q.4.exe
+C:\Users\Ali Kalabi\OneDrive\Desktop\CSharp_Programming_Assignment\Q.4.Calculator\PF-Assignment1-Q.4\obj\Debug\PF-Assignment1-Q.4.pdb
